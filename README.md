@@ -9,7 +9,7 @@ Authentication: Secure login and signup using encrypted credentials.
 
 🛠️ Setup & Installation
 Clone this repository:
-git clone https://github.com/Jha-Sweta/-E-Books-Library-App.git
+git clone https://github.com/Jha-Sweta/E-Books-Library-App.git
 Open the project in your preferred IDE (e.g., Android Studio, Visual Studio Code).
 Build and run the app on an emulator or physical device.
 
